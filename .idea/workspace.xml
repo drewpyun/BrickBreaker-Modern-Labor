@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a4b8a4-ce91-44d5-9df0-9ad8ff4b8680" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Gameplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/brickBreaker/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brickBreaker/Gameplay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +16,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/brickBreaker/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
@@ -23,10 +25,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Gameplay.java">
+        <entry file="file://$PROJECT_DIR$/src/brickBreaker/Gameplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="241">
+              <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,21 +51,21 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Modern-Labor-Brick-Breaker" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/brickBreaker/Main.java" />
-        <option value="$PROJECT_DIR$/src/brickBreaker/Gameplay.java" />
         <option value="$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Gameplay.java" />
+        <option value="$PROJECT_DIR$/src/brickBreaker/Gameplay.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="435" />
-    <option name="y" value="181" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="392" />
+    <option name="y" value="127" />
     <option name="width" value="1220" />
     <option name="height" value="761" />
   </component>
@@ -81,11 +83,6 @@
               <item name="BrickBreaker" type="b2602c69:ProjectViewProjectNode" />
               <item name="BrickBreaker" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BrickBreaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BrickBreaker" type="462c0819:PsiDirectoryNode" />
-              <item name="Modern-Labor-Brick-Breaker" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -94,10 +91,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553496533921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553497127395" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fireo\OneDrive\Documents\School\Programming\Java\BrickBreaker" />
       <recent name="C:\Users\Fireo\OneDrive\Documents\School\Programming\Java\BrickBreaker\Modern-Labor-Brick-Breaker" />
     </key>
   </component>
@@ -156,7 +155,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="392" y="127" width="1220" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -165,7 +164,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34051725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" />
@@ -173,7 +172,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3279743" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20150054" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29936305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,7 +188,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/brickBreaker/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
@@ -203,10 +202,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modern-Labor-Brick-Breaker/src/brickBreaker/Gameplay.java">
+    <entry file="file://$PROJECT_DIR$/src/brickBreaker/Gameplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="241">
+          <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

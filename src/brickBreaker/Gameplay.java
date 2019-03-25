@@ -68,7 +68,13 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         time.start();
+
+        //Bouncing off paddle and border
         if(play) {
+            if(new Rectangle(ballposX, ballposY, 20, 20).
+                    intersects(new Rectangle(playerX, 550, 100, 8) ) ) {
+                ballydir = -ballydir;
+            }
             ballposX += ballxdir;
             ballposY += ballydir;
             if(ballposY < 0 ) {
@@ -78,7 +84,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
             if(ballposX < 0 ) {
                 ballxdir = -ballxdir;
             }
-            if(ballposX < 0 ) {
+            if(ballposX > 670 ) {
                 ballxdir = -ballxdir;
             }
         }
