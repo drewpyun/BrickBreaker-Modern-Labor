@@ -33,14 +33,17 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
     private int ballxdir = -1;
     private int ballydir = -2;
 
+    private MapGenerator map;
+
+
     //Constructor
     public Gameplay() {
+        map = new MapGenerator(3,7);
         addKeyListener(this);
         setFocusable(true);
         setFocusTraversalKeysEnabled(false);
         time = new Timer(delay, this);
         time.start();
-
     }
 
     public void paint(Graphics g) {
@@ -62,6 +65,8 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
         g.setColor(Color.magenta);
         g.fillOval(ballposX, ballposY, 20,20);
 
+        //Generate Blocks
+        map.draw((Graphics2D)g);
         g.dispose();
     }
 
@@ -71,7 +76,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 
         //Bouncing off paddle and border
         if(play) {
-            if(new Rectangle(ballposX, ballposY, 20, 20).
+            if(new Rectangle(ballposX, ballposY, 80, 20).
                     intersects(new Rectangle(playerX, 550, 100, 8) ) ) {
                 ballydir = -ballydir;
             }
