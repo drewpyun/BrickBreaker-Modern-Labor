@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5a4b8a4-ce91-44d5-9df0-9ad8ff4b8680" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/brickBreaker/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brickBreaker/Gameplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brickBreaker/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brickBreaker/MapGenerator.java" afterDir="false" />
-    </list>
+    <list default="true" id="b5a4b8a4-ce91-44d5-9df0-9ad8ff4b8680" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553550637450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553550641770" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -180,8 +177,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="844" y="117" width="1124" height="755" extended-state="0" />
-    <editor active="true" />
+    <frame x="457" y="146" width="1124" height="755" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -197,7 +193,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3279743" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3022508" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3022508" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
